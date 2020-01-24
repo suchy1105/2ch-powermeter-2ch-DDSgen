@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: dual DDS & RF power meter.PcbDoc   2019-02-21  13:28:14
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : dual DDS & RF power meter-RoundHoles.TXT
+ASCII SlotHoles File : dual DDS & RF power meter-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             616       PTH        2404.21mm (94.65inch)
+T2      0.5mm (20mil)                                             Slot              4         PTH        44.70mm (1.76inch)
+T3      0.9mm (35mil)                                             Round             8         PTH        18.08mm (0.71inch)
+T4      1mm (39mil)                                               Round             38        PTH        565.35mm (22.26inch)
+T5      1.5mm (59mil)                                             Round             25        PTH        286.85mm (11.29inch)
+T6      1.6mm (63mil)                                             Round             2         PTH        15.49mm (0.61inch)
+T7      2.794mm (110mil)                                          Round             4         PTH        391.64mm (15.42inch)
+T8      3.2mm (126mil)                                            Round             3         PTH        11.77mm (0.46inch)
+T9      3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              702
+
+Total Processing Time (hh:mm:ss) : 00:00:00

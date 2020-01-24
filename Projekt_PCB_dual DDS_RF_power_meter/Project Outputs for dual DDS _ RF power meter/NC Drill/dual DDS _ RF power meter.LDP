@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Karol\Desktop\dual DDS & RF power meter\dual DDS & RF power meter.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=dual dds & rf power meter-roundholes.txt|DrillLayers=gtl,gp1,g1,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=dual dds & rf power meter-slotholes.txt|DrillLayers=gtl,gp1,g1,gbl

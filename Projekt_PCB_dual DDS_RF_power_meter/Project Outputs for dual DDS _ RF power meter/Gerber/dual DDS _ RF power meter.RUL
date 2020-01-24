@@ -1,0 +1,18 @@
+DRC Rules Export File for PCB: C:\Users\Karol\Desktop\dual DDS & RF power meter\dual DDS & RF power meter.PcbDoc
+RuleKind=Clearance|RuleName=SDRAM|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=RF_IMP|Scope=Board|Minimum=6.49
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=PowerMes2|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=PowerMes1|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=GEN1_1|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=GEN2_1|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=PowerMes2_1|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=PowerMes2_2|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=GEN1_2|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=GEN2_2|Scope=Board|Minimum=23.74
+RuleKind=Width|RuleName=GEN1_3|Scope=Board|Minimum=17.28
+RuleKind=Width|RuleName=GEN2_3|Scope=Board|Minimum=17.28

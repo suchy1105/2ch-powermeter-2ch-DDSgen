@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Only populated components] of PCB Document [dual DDS & RF power meter.PcbDoc]
+   Generated File[Pick Place for dual DDS & RF power meter.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:28:22 On 2019-02-21
